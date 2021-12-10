@@ -1,16 +1,21 @@
-### Hi there 👋
+![Tomas](https://user-images.githubusercontent.com/63771558/145614456-474e45ad-0c7f-4f0a-8588-d477cd90113f.png)
 
-<!--
-**R-Tomas-Gonzalez/R-Tomas-Gonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://user-images.githubusercontent.com/63771558/145616283-79a2bc58-c261-4226-a03f-7e9e648fc627.png" width="100" height="100"/> Hi! My name is Tomas — nice to meet ya.
+<ul style="list-style: none;">
 
-Here are some ideas to get you started:
+💻 - I'm currently employed by Infosys. I also devote my time to open source as a frontend developer and on the merge team at Hack for LA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🪴 - I'm currently learning Node.js, Typescript, GraphQL, Docker.
+
+🗄 - I'm looking for full-time, part-time and contract work as a frontend engineer.
+
+☕︎ - Fun fact: I love coffee, spending time with my gf, playing soccer and any other sports!
+
+📫 - How to reach me:
+     
+  **Linkedin**: https://www.linkedin.com/in/rtomasgonzalez/
+  
+  **Website/Portfolio**: https://www.rtomasgonzalez.com
+  
+  **Email**: r.tomas.gonzalez01@gmail.com
+</ul>
