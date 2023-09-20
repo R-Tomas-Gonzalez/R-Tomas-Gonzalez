@@ -8,6 +8,8 @@
   **Linkedin**: https://www.linkedin.com/in/rtomasgonzalez/
   
   **Website/Portfolio**: https://www.rtomasgonzalez.com
+
+  **YouTube Channel**: https://www.youtube.com/channel/UC2kyOx2BQLqn23WfOz7VFHQ
   
   **Email**: r.tomas.gonzalez01@gmail.com
 </ul>
